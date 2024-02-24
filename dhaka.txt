@@ -28,7 +28,6 @@ Banani
 Banasree
 Bangla College
 Bangla Motor
-Bangla Motor Shahbag
 Bangladesh Bank
 Baromi
 Bashabo
@@ -52,7 +51,6 @@ Chashara
 Chiriyakhana
 Chittagong Road
 City College
-City College 
 CMH
 College Gate
 Dainik Bangla Moor
@@ -61,7 +59,6 @@ Dayaganj
 Demra Staff Quarter
 Dhaka College
 Dhakeshwari
-Dhamra
 Dhamrai
 Dhanmondi 15
 Dhanmondi 27
@@ -70,7 +67,6 @@ Dhanmondi 32 Kalabagan
 Dholairpar
 Dhour
 Dhupkhola
-Dia Bari
 Diabari
 Duaripara
 ECB Square
@@ -123,7 +119,6 @@ Kachukhet
 Kadamtali
 Kakali
 Kakrail
-Kakrail 
 Kalabagan
 Kalabagan City College
 Kalampur
@@ -153,9 +148,7 @@ Khilkhet
 Kolabagan 
 Konabari
 Kuchimura
-Kuril Bishwa Road
 Kuril Bissho Road
-Kuril Bissho Road 
 Kuril Chourasta
 Kuril Flyover
 Madanpur
@@ -164,7 +157,6 @@ Malibagg Mor
 Malibagh
 Malibagh Moor
 Malibagh Rail Gate
-Malibagh Railgate
 Manik Mia Avenue
 Manik Nagar
 Manikganj
@@ -174,7 +166,6 @@ Matuail
 Mazar Road
 Meghna Ghat
 Merul
-MES
 Metro Hall
 Mill Gate
 Mirpur 1
@@ -183,24 +174,18 @@ Mirpur 11
 Mirpur 12
 Mirpur 13
 Mirpur 14
-Mirpur 14 Bus Stand
 Mirpur 2
-Mirpur 2 Mirpur 10
 Mirpur 6
 Mirpur DOHS
-Mirpur Sony Cinema Hall
 Mitford Ghat
 Mogbazar
-Mogbazar Mohakhali
 Mohakhali
 Mohammadpur
-Mohammadpur Bus Stand
 Motijheel
 Motso Vobon
 Mouchak
 Mugdapara
 Nabisco
-Nabisco 
 Nadda
 Nandan Park
 Narshinghapur
@@ -208,7 +193,6 @@ Natun Bazar
 Nawabganj
 Naya Bazar
 New Market
-New Market Nilkhet
 Nila Market
 Nilkhet
 Nimtola
@@ -237,7 +221,6 @@ Rajlakshmi
 Rajlakshmi House Building
 Rampura Bazar
 Rampura Bridge
-Rampura Bridge
 Ray Saheb Bazar
 Rayer Bazar
 Rayerbag
@@ -249,24 +232,20 @@ Sainik Club
 Salimullah Road
 Sanarpar
 Sat rasta
-Satrasta
 Saudi Colony
 Savar
 Savar Cantonment
 Sayedabad
 Sayedabad Janapath Moor
 Science Lab
-Science Lab 
 Shahbag
 Shahbag 
 Shahjadpur
 Shanir Akhra
 Shankar
 Shantinagar
-Shewra
 Shewrapara
 Shia Masjid
-Shia Mosque
 Shib Bari
 Shibu Market
 Shimultola
@@ -281,13 +260,11 @@ Shyamoli
 Sign Board
 Signal
 Sikder Medical College
-Sony Cenema Hall
 Sony Cinema Hall
 Sony Hall
 South Banasree
 Sreepur
 Staff Road
-Star Kabab
 Station Road
 Sura Bari
 Tajmahal Road
@@ -304,8 +281,6 @@ Uttara House Building
 Vashantek
 Victoria Park
 Vulta
-Wireless
-Workshop
 Zia Uddyan
 Zirabo
 Zirani Bazar
