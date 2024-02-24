@@ -1,4 +1,3 @@
-cities_in_dhaka
 300 Feet
 Abdullahpur
 Adabor
